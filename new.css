@@ -1,0 +1,14 @@
+body{
+  background-color: #FF8C00;
+}
+.main-center a {
+  border: solid black ;
+  text-transform: capitalize;
+  background-color: orange;
+  text-decoration: none;
+  color: black;
+}
+.main{
+  align:center;
+  position: absolute;
+}
